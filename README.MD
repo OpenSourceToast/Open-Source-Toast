@@ -24,8 +24,8 @@
 
 # Finished Result
 
-![toast1](toast1.jpg)
-![toast2](toast2.jpg)
+![toast1](/images/toast1.jpg)
+![toast2](/images/toast2.jpg)
 
 
 Enjoy your toast!
