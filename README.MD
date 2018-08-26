@@ -13,3 +13,11 @@
  
 # Heated at: 
 	140°C 
+# On Dial Setting:
+	2
+
+# Eaten with:
+- Homemade butter from locally sourced milk
+
+# Optional things
+- Cracking an egg from your pet chicken and having some scrambled egg toasties
