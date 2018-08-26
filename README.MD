@@ -21,3 +21,11 @@
 
 # Optional things
 - Cracking an egg from your pet chicken and having some scrambled egg toasties
+
+# Finished Result
+
+![toast1](toast1.jpg)
+![toast2](toast2.jpg)
+
+
+Enjoy your toast!
