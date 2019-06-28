@@ -23,7 +23,7 @@ Making
 - 500g of flour (this is personal preference)
 - any additives you feel like you would enjoy, It's always nice to experiment, (If adding chocolate peices please be weary as it may not work that well)
 
-Steps
+### Steps
 
 
 1. Carefully put the salt, flour and yeast into a large bowl
