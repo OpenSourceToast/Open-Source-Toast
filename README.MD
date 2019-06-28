@@ -12,7 +12,7 @@ Making
 =
 ## This is a small guide on how to make a loaf of bread.
 
-You will need
+### You will need
 - Free time (This is important)
 - Some kind of over tray or bread tin ("900g loaf tin")
 - Big plastic food bag
