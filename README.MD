@@ -47,6 +47,6 @@ Congratulation you have made a loaf of bread, Now here is the fun part... Cuttin
 Toasting
 =
 ## This Section is WIP.
-So make some sandwiches while you wait for it to eventually get finished, Practise making your loafs.
+So make some sandwiches in the meantime I guess?
 
 
