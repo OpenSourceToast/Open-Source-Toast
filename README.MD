@@ -38,7 +38,7 @@ Making
 10. After the hour, Poke it and if it doesn't spring back leave it for a bit longer
 11. Preheat oven to around 200C / gas mark 6.
 12. Cut across the top of the loaf 
-13. Put it in the oven and beak for 30-45 minutes, best point is when it is a nice gold on the top
+13. Put it in the oven and bake for 30-45 minutes, best point is when it is a nice gold on the top
 14. Carefully take it out and put it on a cooling rack and check the base of the bread to see if it cooked well (sounds hollow with a nice crack sound)
 15. Leave it to cool
 
